@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo programação
 - 💞️ Estou estudando no ensino médio
 - 📫 Me encontre em ryan.alcantara.nogueira@escola.pr.gov.br
-- _#barao1bficodicara_
+- #barao1bficodicara
 
 <!---
 RayNoAlc/RayNoAlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
